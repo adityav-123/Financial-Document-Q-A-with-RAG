@@ -4,6 +4,9 @@ A Retrieval-Augmented Generation (RAG) system that lets users upload a dense PDF
 
 Runs entirely **locally** using open-source models — no API keys required.
 
+## check it out on Kaggle : 
+https://www.kaggle.com/code/adityaverma108/ai-financial-analyst-document-q-a-with-rag?scriptVersionId=248919847
+
 ---
 
 ## 🚀 Project Overview
